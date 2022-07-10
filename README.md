@@ -3,7 +3,7 @@
 This is a simple chatting website having chat rooms.
 ## Installation
 
-Install Python [python](https://www.python.org/downloads/) to install python.
+Install Python [download](https://www.python.org/downloads/) to install python.
 
 Installing PIP On Windows [pip] 
 ```bash
